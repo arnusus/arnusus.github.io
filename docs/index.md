@@ -18,7 +18,7 @@ hide:
 ### دين
 
 <div class="shelves">
-<a class="shelf" href="dat/talmud-bavli/nezikin/sanhedrin/000001/"><b>التلمود البابلي</b><span>شرح المِشنا ومناقشتها في مدارس بابل، وهو أوسع كتب الشريعة الشفوية.</span></a>
+<a class="shelf" href="dat/talmud-bavli/"><b>التلمود البابلي</b><span>شرح المِشنا ومناقشتها في مدارس بابل، وهو أوسع كتب الشريعة الشفوية.</span></a>
 <div class="shelf shelf--soon"><b>المِشنا</b><span>أقدم مدوّنة للشريعة الشفوية، جُمعت نحو سنة ٢٠٠م.</span></div>
 <div class="shelf shelf--soon"><b>التلمود الأورشليمي</b><span>شرح المِشنا في مدارس الجليل.</span></div>
 <div class="shelf shelf--soon"><b>المدراش</b><span>التفاسير الوعظية والتشريعية لأسفار الكتاب.</span></div>
@@ -30,8 +30,8 @@ hide:
 ### شخصيات وأحداث
 
 <div class="shelves">
-<a class="shelf" href="people/000001/"><b>شخصيات</b><span>سِيَر أعلام من الحياة الثقافية والعامة، مترجمة عن العبرية.</span></a>
-<a class="shelf" href="history/000001/"><b>أحداث تاريخية</b><span>مقالات عن وقائع تاريخية، مترجمة عن العبرية.</span></a>
+<a class="shelf" href="people/"><b>شخصيات</b><span>سِيَر أعلام من الحياة الثقافية والعامة، مترجمة عن العبرية.</span></a>
+<a class="shelf" href="history/"><b>أحداث تاريخية</b><span>مقالات عن وقائع تاريخية، مترجمة عن العبرية.</span></a>
 </div>
 
 ## أحدث المنشور
