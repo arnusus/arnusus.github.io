@@ -1,9 +1,6 @@
 # زوهر أرغوف
 
-<figure class="lead-figure" markdown="span">
-  ![زوهر أرغوف على المسرح](images/zohar-argov.jpg)
-  <figcaption>زوهر أرغوف</figcaption>
-</figure>
+<figure class="lead-figure"><img src="../images/zohar-argov.jpg" alt="زوهر أرغوف على المسرح"><figcaption>زوهر أرغوف</figcaption></figure>
 
 زوهر أرغوف (١٦ تموز/يوليو ١٩٥٥ – ٦ تشرين الثاني/نوفمبر ١٩٨٧؛ ٢٦ تموز ٥٧١٥ – ١٤ حشفان ٥٧٤٨ بالتقويم العبري[^1]) مغنٍّ إسرائيلي، يُعدّ من أبرز مغنّي الموسيقى الشرقية (المزراحية)[^2]، ومن أكثر الفنانين تأثيرًا في الغناء العبري.
 
@@ -302,9 +299,9 @@
 
 <div class="translator-notes" markdown="1">
 
-## ملاحظات المترجم
+## المصدر:
 
-تُرجمت عن ويكيبيديا العبرية.
+ويكيبيديا العبرية
 
 </div>
 

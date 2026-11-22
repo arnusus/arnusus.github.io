@@ -15,9 +15,10 @@ hide:
 
 ## أبواب المكتبة
 
+### دين
+
 <div class="shelves">
 <a class="shelf" href="talmud-bavli/nezikin/sanhedrin/intro/"><b>التلمود البابلي</b><span>شرح المِشنا ومناقشتها في مدارس بابل، وهو أوسع كتب الشريعة الشفوية.</span></a>
-<a class="shelf" href="encyclopedia/zohar-argov/"><b>مقالات موسوعية</b><span>ترجمات لمقالات موسوعية وسِيَر حديثة عن العبرية، بأسلوب موسوعي معاصر.</span></a>
 <div class="shelf shelf--soon"><b>المِشنا</b><span>أقدم مدوّنة للشريعة الشفوية، جُمعت نحو سنة ٢٠٠م.</span></div>
 <div class="shelf shelf--soon"><b>التلمود الأورشليمي</b><span>شرح المِشنا في مدارس الجليل.</span></div>
 <div class="shelf shelf--soon"><b>المدراش</b><span>التفاسير الوعظية والتشريعية لأسفار الكتاب.</span></div>
@@ -25,8 +26,15 @@ hide:
 <div class="shelf shelf--soon"><b>الفقه والفلسفة والأخلاق</b><span>المدوّنات الفقهية وكتب الفكر والأدب الديني.</span></div>
 </div>
 
+### شخصيات وأحداث
+
+<div class="shelves">
+<a class="shelf" href="people/zohar-argov/"><b>شخصيات</b><span>سِيَر أعلام من الحياة الثقافية والعامة، مترجمة عن العبرية.</span></a>
+<a class="shelf" href="history/maale-akrabim/"><b>أحداث تاريخية</b><span>مقالات عن وقائع تاريخية، مترجمة عن العبرية.</span></a>
+</div>
+
 ## أحدث المنشور
 
-- [مقالات موسوعية ‹ مجزرة معاليه عكرابيم](encyclopedia/maale-akrabim.md)
-- [مقالات موسوعية ‹ زوهر أرغوف](encyclopedia/zohar-argov.md)
-- [التلمود البابلي ‹ سنهدرين ‹ كلمة إلى القارئ](talmud-bavli/nezikin/sanhedrin/intro.md)
+- [أحداث تاريخية ‹ مجزرة معاليه عكرابيم](history/maale-akrabim.md)
+- [شخصيات ‹ زوهر أرغوف](people/zohar-argov.md)
+- [دين ‹ التلمود البابلي ‹ سنهدرين ‹ كلمة إلى القارئ](talmud-bavli/nezikin/sanhedrin/intro.md)
