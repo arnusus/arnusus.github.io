@@ -312,10 +312,18 @@
   }
 }
 
-/* سطر مصدر الترجمة تحت العنوان */
-.md-typeset p.source-credit {
-  text-align: center;
+/* الصورة في أول المقالة */
+.md-typeset figure.lead-figure {
+  margin: 0.5em auto 1.6em;
+  max-width: 100%;
+}
+.md-typeset figure.lead-figure img {
+  border-radius: 10px;
+  border: 1px solid var(--rule);
+}
+.md-typeset figure.lead-figure figcaption {
   color: var(--ink-soft);
   font-size: 0.9rem;
-  margin-top: -0.6em;
+  font-style: normal;
+  margin: 0.5em auto 0;
 }
