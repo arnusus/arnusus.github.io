@@ -49,6 +49,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/arabic-digits.js
+  - javascripts/kashida.js
 
 # ===== فهرس الموقع =====
 # المستوى الأول: أبواب المكتبة (التلمود البابلي، المِشنا، المدراش، التفاسير...)
@@ -64,6 +65,9 @@ nav:
       - قسم الأضرار:
           - سنهدرين:
               - كلمة إلى القارئ: talmud-bavli/nezikin/sanhedrin/intro.md
+  - مقالات موسوعية:
+      - زوهر أرغوف: encyclopedia/zohar-argov.md
+      - مجزرة معاليه عكرابيم: encyclopedia/maale-akrabim.md
 
 extra:
   generator: false

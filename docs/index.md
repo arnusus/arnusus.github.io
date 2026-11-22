@@ -17,6 +17,7 @@ hide:
 
 <div class="shelves">
 <a class="shelf" href="talmud-bavli/nezikin/sanhedrin/intro/"><b>التلمود البابلي</b><span>شرح المِشنا ومناقشتها في مدارس بابل، وهو أوسع كتب الشريعة الشفوية.</span></a>
+<a class="shelf" href="encyclopedia/zohar-argov/"><b>مقالات موسوعية</b><span>ترجمات لمقالات موسوعية وسِيَر حديثة عن العبرية، بأسلوب موسوعي معاصر.</span></a>
 <div class="shelf shelf--soon"><b>المِشنا</b><span>أقدم مدوّنة للشريعة الشفوية، جُمعت نحو سنة ٢٠٠م.</span></div>
 <div class="shelf shelf--soon"><b>التلمود الأورشليمي</b><span>شرح المِشنا في مدارس الجليل.</span></div>
 <div class="shelf shelf--soon"><b>المدراش</b><span>التفاسير الوعظية والتشريعية لأسفار الكتاب.</span></div>
@@ -26,4 +27,6 @@ hide:
 
 ## أحدث المنشور
 
+- [مقالات موسوعية ‹ مجزرة معاليه عكرابيم](encyclopedia/maale-akrabim.md)
+- [مقالات موسوعية ‹ زوهر أرغوف](encyclopedia/zohar-argov.md)
 - [التلمود البابلي ‹ سنهدرين ‹ كلمة إلى القارئ](talmud-bavli/nezikin/sanhedrin/intro.md)
