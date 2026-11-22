@@ -311,3 +311,11 @@
     color-scheme: light;
   }
 }
+
+/* سطر مصدر الترجمة تحت العنوان */
+.md-typeset p.source-credit {
+  text-align: center;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  margin-top: -0.6em;
+}
