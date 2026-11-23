@@ -95,6 +95,9 @@ nav:
   - أحداث تاريخية:
       - history/index.md
       - مجزرة معاليه عكرابيم: history/000001.md
+  - مؤسسات:
+      - institutions/index.md
+      - المركز الطبي شعاري تسيدك: institutions/000001.md
 
 extra:
   generator: false
