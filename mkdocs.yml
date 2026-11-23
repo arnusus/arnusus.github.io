@@ -8,7 +8,7 @@ theme:
   custom_dir: overrides
   font: false
   icon:
-    logo: material/book-open-page-variant-outline
+    logo: material/home-outline
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -63,9 +63,8 @@ extra_javascript:
 # لكل تصنيف (وللتناخ وللتلمود البابلي، ولكل تفسير ولكل سفر تحته) صفحة index.md تعرض محتوياته، فإذا أُضيف نص جديد
 # أُضيفت له بطاقة في صفحة بابه.
 nav:
-  - الرئيسية:
-      - index.md
-      - عن الترجمة: about.md
+  - الرئيسية: index.md
+  - عن المكتبة: library.md
   - دين:
       - dat/index.md
       - التناخ:
