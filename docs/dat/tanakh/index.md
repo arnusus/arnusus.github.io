@@ -8,5 +8,5 @@ hide:
 أسفار الكتاب المقدّس العبري: التوراة والأنبياء والكتب، مع تفاسيرها الكلاسيكية.
 
 <div class="shelves">
-<a class="shelf" href="parshanut/ibn-ezra/bereshit/000001/"><b>تفسير ابن عزرا على التوراة: سفر التكوين ١: ١</b><span>التفاسير ‹ تفسير ابن عزرا ‹ سفر التكوين.</span></a>
+<a class="shelf" href="parshanut/ibn-ezra/"><b>تفسير ابن عزرا</b><span>تفسير أبراهام بن عزرا للتوراة.</span></a>
 </div>
