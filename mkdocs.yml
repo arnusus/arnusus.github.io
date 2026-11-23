@@ -70,9 +70,10 @@ nav:
       - dat/index.md
       - التناخ:
           - dat/tanakh/index.md
-          - التوراة:
-              - سفر التكوين:
-                  - "تفسير ابن عزرا ١: ١": dat/tanakh/torah/bereshit/000001.md
+          - التفاسير:
+              - تفسير ابن عزرا:
+                  - سفر التكوين:
+                      - "التكوين ١: ١": dat/tanakh/parshanut/ibn-ezra/bereshit/000001.md
       - التلمود البابلي:
           - dat/talmud-bavli/index.md
           - قسم الأضرار:
