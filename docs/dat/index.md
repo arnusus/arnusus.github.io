@@ -9,5 +9,6 @@ hide:
 
 <div class="shelves">
 <a class="shelf" href="tanakh/"><b>التناخ</b><span>أسفار الكتاب المقدّس العبري مع تفاسيرها الكلاسيكية.</span></a>
+<a class="shelf" href="parasha/"><b>الفرشة الأسبوعية</b><span>مقالات وحواشٍ على أقسام التوراة الأسبوعية.</span></a>
 <a class="shelf" href="talmud-bavli/"><b>التلمود البابلي</b><span>شرح المِشنا ومناقشتها في مدارس بابل، وهو أوسع كتب الشريعة الشفوية.</span></a>
 </div>

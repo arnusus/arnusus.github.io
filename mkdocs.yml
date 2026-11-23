@@ -81,6 +81,9 @@ nav:
                   - سفر التكوين:
                       - dat/tanakh/parshanut/ibn-ezra/bereshit/index.md
                       - "التكوين ١: ١": dat/tanakh/parshanut/ibn-ezra/bereshit/000001.md
+      - الفرشة الأسبوعية:
+          - dat/parasha/index.md
+          - "حواشٍ على فرشة «وخرج»": dat/parasha/000001.md
       - التلمود البابلي:
           - dat/talmud-bavli/index.md
           - قسم الأضرار:
