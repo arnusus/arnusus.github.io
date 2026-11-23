@@ -16,13 +16,14 @@ hide:
 ## أبواب المكتبة
 
 <div class="shelves">
-<a class="shelf" href="dat/"><b>دين</b><span>نصوص دينية يهودية كلاسيكية، تبدأ بالتلمود البابلي.</span></a>
+<a class="shelf" href="dat/"><b>دين</b><span>نصوص دينية يهودية كلاسيكية: التناخ وتفاسيره، والتلمود البابلي.</span></a>
 <a class="shelf" href="people/"><b>شخصيات</b><span>سِيَر أعلام من الحياة الثقافية والعامة.</span></a>
 <a class="shelf" href="history/"><b>أحداث تاريخية</b><span>مقالات عن وقائع تاريخية.</span></a>
 </div>
 
 ## أحدث المنشور
 
+- [دين ‹ التناخ ‹ سفر التكوين ‹ تفسير ابن عزرا ١: ١](dat/tanakh/torah/bereshit/000001.md)
 - [أحداث تاريخية ‹ مجزرة معاليه عكرابيم](history/000001.md)
 - [شخصيات ‹ زوهر أرغوف](people/000001.md)
 - [دين ‹ التلمود البابلي ‹ سنهدرين ‹ كلمة إلى القارئ](dat/talmud-bavli/nezikin/sanhedrin/000001.md)
