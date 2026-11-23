@@ -81,14 +81,14 @@ nav:
                   - سفر التكوين:
                       - dat/tanakh/parshanut/ibn-ezra/bereshit/index.md
                       - "التكوين ١: ١": dat/tanakh/parshanut/ibn-ezra/bereshit/000001.md
-      - الفرشة الأسبوعية:
-          - dat/parasha/index.md
-          - "حواشٍ على فرشة «وخرج»": dat/parasha/000001.md
       - التلمود البابلي:
           - dat/talmud-bavli/index.md
           - قسم الأضرار:
               - سنهدرين:
                   - كلمة إلى القارئ: dat/talmud-bavli/nezikin/sanhedrin/000001.md
+      - مقالات دينية:
+          - dat/articles/index.md
+          - "حواشٍ على فرشة «وخرج»": dat/articles/000001.md
   - شخصيات:
       - people/index.md
       - زوهر أرغوف: people/000001.md
