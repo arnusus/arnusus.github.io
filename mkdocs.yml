@@ -71,6 +71,11 @@ nav:
       - التناخ:
           - dat/tanakh/index.md
           - التفاسير:
+              - تفسير راشي:
+                  - dat/tanakh/parshanut/rashi/index.md
+                  - سفر التكوين:
+                      - dat/tanakh/parshanut/rashi/bereshit/index.md
+                      - "التكوين ١: ١": dat/tanakh/parshanut/rashi/bereshit/000001.md
               - تفسير ابن عزرا:
                   - dat/tanakh/parshanut/ibn-ezra/index.md
                   - سفر التكوين:
