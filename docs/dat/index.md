@@ -9,5 +9,6 @@ hide:
 
 <div class="shelves">
 <a class="shelf" href="tanakh/"><b>التناخ</b><span>أسفار الكتاب المقدّس العبري مع تفاسيرها الكلاسيكية.</span></a>
+<a class="shelf" href="talmud-bavli/"><b>التلمود البابلي</b><span>شرح المِشنا ومناقشتها في مدارس بابل.</span></a>
 <a class="shelf" href="articles/"><b>مقالات دينية</b><span>مقالات معاصرة في الفكر الديني اليهودي والفرشة الأسبوعية.</span></a>
 </div>
