@@ -9,4 +9,5 @@ hide:
 
 <div class="shelves">
 <a class="shelf" href="000001/"><b>براخوت ٢أ</b><span>وقت قراءة الشماع في المساء.</span></a>
+<a class="shelf" href="000002/"><b>براخوت ٢ب</b><span>الفقير والكاهن وأوّل وقت الشماع.</span></a>
 </div>
